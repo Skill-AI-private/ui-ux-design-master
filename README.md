@@ -1,80 +1,93 @@
 <div align="center">
 
-# 🎨 UI/UX Design Master (`ui-ux-design-master`)
+# UI/UX Design Master (`ui-ux-design-master`)
 
-**12 GitHub Design Repos + 4 Stability Pillars + 118-Point Anti-Slop Quality Gate**  
-*The Premier UI/UX Design & Front-End Polish Skill for AI Coding Assistants.*
+**12 GitHub Design Repositories + 4 Production Stability Pillars + 118-Point Anti-Slop Audit**  
+*The Deterministic UI/UX Design & Front-End Polish Engine for AI Coding Agents.*
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&logo=semver)](https://github.com/Skill-AI-private/ui-ux-design-master)
-[![Anti-Slop](https://img.shields.io/badge/Quality%20Gate-118%20Rules%20Enforced-00C7B7.svg?style=for-the-badge)](https://github.com/Skill-AI-private/ui-ux-design-master)
-[![Supports](https://img.shields.io/badge/Supports-Antigravity%20|%20Claude%20Code%20|%20Cursor%20|%20Copilot-8A2BE2.svg?style=for-the-badge)](https://github.com/Skill-AI-private/ui-ux-design-master)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0.0-18181B.svg?style=flat-square&labelColor=09090B)](https://github.com/Skill-AI-private/ui-ux-design-master)
+[![Audit](https://img.shields.io/badge/quality%20gate-118%20rules%20enforced-18181B.svg?style=flat-square&labelColor=09090B)](https://github.com/Skill-AI-private/ui-ux-design-master)
+[![Harnesses](https://img.shields.io/badge/compatibility-Antigravity%20|%20Claude%20Code%20|%20Cursor%20|%20Copilot-18181B.svg?style=flat-square&labelColor=09090B)](https://github.com/Skill-AI-private/ui-ux-design-master)
+[![License](https://img.shields.io/badge/license-MIT-18181B.svg?style=flat-square&labelColor=09090B)](LICENSE)
 
 <br/>
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                        │
-│   🏛️ 4 Stability Pillars (Usability First)                                             │
-│         ├──► UX Psychology (Hick's & Fitts's Laws: Zero blind buttons, explicit badges)│
-│         ├──► Vercel Web Interface Guidelines (Keyboard focus, zero layout shift)       │
-│         ├──► Anti-Overflow CSS Guards (min-h-0 / min-w-0, pinned headers & footers)    │
-│         └──► AI & Multi-Agent UI Patterns (Live progress, mandatory [Stop/Cancel])     │
-│                                                                                        │
-│   🎨 12 Synthesized GitHub Design Engines                                              │
-│         ├──► Open Design (nexu-io/open-design) ── Multi-variant local prototyping      │
-│         ├──► Taste Skill (Leonxlnx/taste-skill) ── Visual hierarchy & browser checks   │
-│         ├──► UI/UX Pro Max (nextlevelbuilder) ── Industry color & typography palettes  │
-│         ├──► Google DESIGN.md (google-labs-code) ── Persistent brand design tokens     │
-│         ├──► Awesome DESIGN.md (VoltAgent) ── Curated tokens (Linear, Stripe, Apple)   │
-│         ├──► Impeccable (pbakaus) ── 24 workflow commands & 61 anti-slop rules         │
-│         ├──► Hallmark (nutlope) ── 57 design criteria & structural macrostructures     │
-│         ├──► Emil Kowalski Skills (emilkowalski) ── Sub-250ms physics motion           │
-│         ├──► React Bits (DavidHDev) ── 200+ tactile animated components                │
-│         ├──► GSAP Skills (greensock) ── Production-safe scroll storytelling            │
-│         ├──► 🔒 Canvas UI (DavidHDev) ── WebGL HTML-in-canvas shaders (Safety-Locked) │
-│         └──► 🔒 Scroll World (oso95) ── 3D camera fly-through pages (Safety-Locked)    │
-│                                                                                        │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+==========================================================================================
+                     UI/UX DESIGN MASTER ARCHITECTURE MATRIX
+==========================================================================================
+
+  [01] PRODUCTION STABILITY PILLARS
+       +-- UX Psychology (Hick's & Fitts's Laws, zero blind action buttons)
+       +-- Vercel Web Interface Guidelines (Full keyboard ergonomics, focus-visible rings)
+       +-- Anti-Overflow CSS Guards (min-h-0 / min-w-0, pinned headers & action bars)
+       +-- AI/Agentic UI Patterns (Live execution timers, mandatory abort escape hatches)
+
+  [02] 12 CURATED DESIGN ENGINES
+       +-- nexu-io/open-design         : Multi-variant local prototyping & side-by-side canvas
+       +-- Leonxlnx/taste-skill        : Intentional art direction, visual hierarchy & browser checks
+       +-- nextlevelbuilder/ui-ux-pro  : Domain-specific color palettes & typography scales
+       +-- google-labs-code/design.md  : Persistent machine/human design token specifications
+       +-- VoltAgent/awesome-design-md : Industry design systems (Linear, Stripe, Apple, Vercel)
+       +-- pbakaus/impeccable          : 24 workflow commands & 61 deterministic anti-slop rules
+       +-- nutlope/hallmark            : 57 visual quality criteria & macro-layout structures
+       +-- emilkowalski/skills         : Sub-250ms physics motion & cubic-bezier easing curves
+       +-- DavidHDev/react-bits        : 200+ tactile React animated micro-interactions
+       +-- greensock/gsap-skills       : Production-safe GSAP timelines & ScrollTrigger cleanup
+       +-- [LOCKED] DavidHDev/canvas-ui: Interactive WebGL HTML-in-canvas shaders
+       +-- [LOCKED] oso95/scroll-world : 3D camera fly-through landing pages
+==========================================================================================
 ```
 
 </div>
 
 ---
 
-## ⚡ Quick Install
+## Architecture Overview
 
-### 🪟 Windows (PowerShell)
+`ui-ux-design-master` is an autonomous front-end design authority built to eliminate generic "AI slop"—such as default Inter fonts, arbitrary purple-to-blue gradients, unreadable low-contrast text, and broken flexbox scroll containers.
+
+### Key Capabilities
+
+* **Deterministic Visual Audit:** Enforces 118 design quality rules across contrast ratios, typographic scale, surface elevation, and whitespace hierarchy before code is presented.
+* **Persistent Design Tokens:** Inspects or creates a standardized `DESIGN.md` in the project root to guarantee cross-page brand consistency.
+* **Physics-Based Micro-Interactions:** Restricts interactive animations to sub-250ms timing budgets with GPU-safe transforms (`transform`, `opacity`), strictly respecting user reduced-motion preferences.
+* **GPU Safety Lock:** Experimental 3D fly-through cameras and WebGL canvas shaders remain locked by default, activating only upon explicit client request.
+
+---
+
+## Installation
+
+### Windows (PowerShell)
 ```powershell
-# Clone to Antigravity global skills directory
 git clone https://github.com/Skill-AI-private/ui-ux-design-master.git "$HOME\.gemini\config\skills\ui-ux-design-master"
 ```
 
-### 🍎 macOS & 🐧 Linux (Bash)
+### macOS & Linux (Bash)
 ```bash
 git clone https://github.com/Skill-AI-private/ui-ux-design-master.git ~/.gemini/config/skills/ui-ux-design-master
 ```
 
 ---
 
-## 📂 Repository Layout
+## Directory Structure
 
 ```text
 ui-ux-design-master/
-├── SKILL.md                                           # Core 5-Pillar Router & 16-Engine Coordinator
-├── README.md                                          # Documentation & Architecture
-└── references/                                        # Progressive Disclosure Playbooks
-    ├── 01-ux-psychology-vercel-and-layout-safety.md   # Usability, Vercel guidelines & CSS flex safety
-    ├── 02-open-design-and-taste-prototyping.md        # Multi-variant prototyping & aesthetic direction
-    ├── 03-design-md-and-brand-archetypes.md           # Google DESIGN.md spec & curated design tokens
-    ├── 04-impeccable-hallmark-anti-slop-gate.md       # 118-Point visual & structural audit checklist
-    └── 05-motion-gsap-and-locked-3d-canvas.md         # Physics motion, GSAP & locked 3D/WebGL recipes
+|-- SKILL.md                                           # Core 5-Pillar Router & 16-Engine Coordinator
+|-- README.md                                          # Technical specification
+`-- references/                                        # Progressive disclosure playbooks
+    |-- 01-ux-psychology-vercel-and-layout-safety.md   # Usability, Vercel guidelines & flex safety
+    |-- 02-open-design-and-taste-prototyping.md        # Multi-variant prototyping & aesthetics
+    |-- 03-design-md-and-brand-archetypes.md           # Google DESIGN.md spec & curated tokens
+    |-- 04-impeccable-hallmark-anti-slop-gate.md       # 118-Point visual & structural audit
+    `-- 05-motion-gsap-and-locked-3d-canvas.md         # Motion physics & locked 3D/WebGL recipes
 ```
 
 ---
 
 <div align="center">
 
-Part of the **Skill-AI-private** Autonomous Software Engineering Suite.
+*Engineered for autonomous software agents within the Skill-AI-private suite.*
 
 </div>
